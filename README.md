@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/visiocodeaipro/visiocode-ai-pro/main/icon.ico" width="100" alt="Visiocode AI Pro Logo">
   <h1>Visiocode AI Pro</h1>
+  <em>Turning your development flow into viral branding assets, automatically.</em>
+  </p>
   <p>
     <strong>The World's 1st Local Code-to-Content Shadow Agent</strong><br>
     <sub>Automate marketing visual structures, thumbnails formulas, and social media video scripts directly from your raw software development data.</sub>
@@ -71,3 +73,9 @@ python screen_agent.py
 
 ## 📄 Corporate Licensing
 This software is distributed under the official Apache License 2.0. See the LICENSE file for detailed provisions.
+---
+
+<div align="center">
+  <h3>Founded, Developed & Designed with ❤️ in Morocco by 🚀 <strong>ANOUAR BOUDEHBI</strong> 🇲🇦<h3>
+  <p>© 2026 Visiocode AI Pro. All rights reserved.</p>
+</div>
