@@ -76,6 +76,6 @@ This software is distributed under the official Apache License 2.0. See the LICE
 ---
 
 <div align="center">
-  <h3>Founded, Developed & Designed with ❤️ in Morocco by 🚀 <strong>ANOUAR BOUDEHBI</strong> 🇲🇦<h3>
+  <h3>Founded, Developed & Designed with ❤️ in Morocco by <strong>ANOUAR BOUDEHBI</strong> 🇲🇦🚀 <h3>
   <p>© 2026 Visiocode AI Pro. All rights reserved.</p>
 </div>
