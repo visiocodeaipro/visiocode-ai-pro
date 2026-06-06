@@ -1,4 +1,4 @@
-ر<div align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/visiocodeaipro/visiocode-ai-pro/main/icon.ico" width="100" alt="Visiocode AI Pro Logo">
   <h1>Visiocode AI Pro</h1>
   <p>
