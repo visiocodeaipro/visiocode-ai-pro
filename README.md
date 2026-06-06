@@ -44,7 +44,7 @@
 ## 📦 Project Directory Structure
 
 📁 visiocode-ai-pro/
-├── 📄 screen_agent.py      # Core desktop automation, vision agent pipeline & Ollama integration
+├── 📄 screen_agent.py     # Core desktop automation, vision agent pipeline & Ollama integration
 ├── 📄 generate_icon.py    # Runtime automated asset rendering engine
 ├── 📄 icon.ico            # Main high-resolution application execution asset
 ├── 📄 .gitignore          # Strict production caching exclusion rules
