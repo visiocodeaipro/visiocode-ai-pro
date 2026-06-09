@@ -32,7 +32,6 @@
   <br>
   <em>Dashboard: English Local Agent Interface</em>
 </div>
----
 
 ## 🚀 Key Features
 
